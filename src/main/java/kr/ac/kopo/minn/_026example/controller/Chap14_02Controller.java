@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Controller
 @RequestMapping("/exam14_02")
-public class chap14_02Controller {
+public class Chap14_02Controller {
 
     @Autowired
     Member3Repository2 repository;
